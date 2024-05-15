@@ -29,3 +29,26 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/tomas-elorrieta/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/tomas.elorrieta/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2>Sobre mi / About me</h2>
+<p>Naci un 4 de junio de 2004, Tengo la edad de 19 años, Desde niño siempre tuve la curiosidad y las ganas de investigar y aprender nuevos conceptos orientados a la tecnologia, A tal punto que a modo de curiosidad fui adquiriendo diferentes conocimientos utiles sobre el hardware, A prueba y error se aprende!</p> 
+<p>I was born on June 4, 2004. I am 19 years old. Since I was a child, I have always had the curiosity and desire to investigate and learn new concepts oriented to technology. To the point that, out of curiosity, I acquired different useful knowledge about it. hardware, you learn by trial and error!</p>
+<hr> 
+<h3>Mis mayores pasiones son / My greatest passions are</h3>
+<ul>
+  <li>la Tecnologia / Technology🚀</li> 
+  <li>El dibujo / The drawing✏️</li> 
+  <li>La creatividad / Creativity💡</li>  
+  <li>Los automoviles / The cars🚗</li> 
+  <li>La musica / The music🎸</li>
+</ul> 
+
+
+
+
+
+
+
+
+
+
