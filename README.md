@@ -8,22 +8,21 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<ul>
-<li>- 🔭 Programming student in progress</li>
-<li>- 🌱 Currently learning html, css and javascript</li>
-<li>- 📝 I have knowledge in the hardware environment and the world that surrounds it</li>
-<li>- 💬 I like to research and learn about different technologies since I consider it important to continue advancing day by day</li>
-<li>- 📫 Feel free to reach me out </li>
-</ul>
 
+- 🔭 Programming student in progress
+- 🌱 Currently learning html, css and javascript
+- 📝 I have knowledge in the hardware environment and the world that surrounds it
+- 💬 I like to research and learn about different technologies since I consider it important to continue advancing day by day
+- 📫 Feel free to reach me out **tomaselorrietaa@gmai.com**
 
-<ul>
-<li>- 🔭 Estudiante de programacion en curso</li>
-<li>- 🌱 Actualmente interiorizandome en html, css y javascript</li>
-<li>- 📝 Cuento con conocimientos en el ambiente del hardware y el mundo que lo rodea</li>
-<li>- 💬 Me gusta investigar y aprender sobre diferentes tecnologias ya que considero que es importante seguir avanzandio dia a dia</li>
-<li>- 📫 No dudes en comunicarte conmigo **tomaselorrietaa@gmai.com** </li>
-</ul>
+<br>
+
+- 🔭 Estudiante de programacion en curso
+- 🌱 Actualmente interiorizandome en html, css y javascript
+- 📝 Cuento con conocimientos en el ambiente del hardware y el mundo que lo rodea
+- 💬 Me gusta investigar y aprender sobre diferentes tecnologias ya que considero que es importante seguir avanzandio dia a dia
+- 📫 No dudes en comunicarte conmigo **tomaselorrietaa@gmai.com** 
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
